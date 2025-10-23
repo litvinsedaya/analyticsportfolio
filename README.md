@@ -21,9 +21,9 @@ My work spans infrastructure cost optimization, product analytics, and multimedi
   - At a **Crypto FinTech startup**: designed and implemented the full analytics pipeline — from tracking setup to BI reporting. Insights from behavioral and funnel analysis increased conversion from **0.3% → 6% loyal users**.  
 
 - **Media & NLP Projects (Independent TV Channel)**  
-  1. Developed an extension for a voice assistant (Python, Flask, NLP with NLTK, spaCy, scikit-learn, transformers).  
-  2. Implemented audio fingerprinting and frame-level video search to repackage TV content into podcasts, expanding multimedia presence and adding **+10% monetization**.  
-  3. Designed a custom profitability metric for paywalled programs and ran retention modeling for subscription audiences.
+  - Developed an extension for a voice assistant (Python, Flask, NLP with NLTK, spaCy, scikit-learn, transformers).  
+  - Implemented audio fingerprinting and frame-level video search to repackage TV content into podcasts, expanding multimedia presence and adding **+10% monetization**.  
+  - Designed a custom profitability metric for paywalled programs and ran retention modeling for subscription audiences.
 
 This repo contains a few public cases I can share. Each includes the problem, approach, and impact.
 
