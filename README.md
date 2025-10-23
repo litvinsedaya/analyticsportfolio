@@ -30,7 +30,7 @@ This repo contains a few public cases I can share. Each includes the problem, ap
 ---
 ### 📂 Portfolio Cases  
 
-1. **[Unit Economics for Generative AI SaaS](./Unit Economics for Generative AI SaaS)**  
+1. [Unit Economics for Generative AI SaaS](./Unit Economics for Generative AI SaaS)  
    Calculated the true $ cost per image generation to enable a new credit-based pricing model.  
    → Found ~50% GPU idle time and initiated predictive autoscaling, cutting **30% infrastructure cost**.
 
