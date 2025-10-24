@@ -33,6 +33,7 @@ This repo contains a few public cases I can share. Each includes the problem, ap
 1. **[Unit Economics for Generative AI SaaS](cases/unit_economics_gen_ai_saas)**  
    Calculated the true $ cost per image generation to enable a new credit-based pricing model.  
    → Found ~50% GPU idle time and initiated predictive autoscaling, cutting **30% infrastructure cost**.
+2. ...more upcoming...
 
 ---
 ### ─ Tools I Use ─
@@ -68,3 +69,4 @@ Besides portfolio cases, I publish free utilities that I wrote for real projects
 
 - **[Amplitude API Export Script](./tools/amplitude_api_export/)**  
   Lightweight tool to export retro data from Amplitude. Useful for backfills and analytics pipelines.
+- ...more upcoming...
