@@ -1,10 +1,10 @@
-## 📊 Daria Litvin-Sedaya — Analytics & Data Science Portfolio
+## ═ Daria Litvin-Sedaya — Analytics & Data Science Portfolio ═
 
 Hi, I’m Daria Litvin-Sedaya 🤝
 For the last **8+ years** I’ve been working in analytics and data science across **EdTech, FinTech, Media, SaaS, Online Retail** — in CIS and globally.
 
 ---
-### What I Do  
+### ─ What I Do ─  
 
 I design **analytics systems end-to-end** and make sure data connects directly to business outcomes.  
 My work spans infrastructure cost optimization, product analytics, and multimedia/NLP projects.  
@@ -28,14 +28,14 @@ My work spans infrastructure cost optimization, product analytics, and multimedi
 This repo contains a few public cases I can share. Each includes the problem, approach, and impact.
 
 ---
-### 📂 Portfolio Cases  
+### ─ Portfolio Cases ─  
 
-1. **[Unit Economics for Generative AI SaaS](./unit_economics_gen_ai_saas)**  
+1. **[Unit Economics for Generative AI SaaS](cases/unit_economics_gen_ai_saas)**  
    Calculated the true $ cost per image generation to enable a new credit-based pricing model.  
    → Found ~50% GPU idle time and initiated predictive autoscaling, cutting **30% infrastructure cost**.
 
 ---
-### 🛠️ Tools I Use (main)
+### ─ Tools I Use ─
 
 
 - **Languages:** SQL, JS, Python  
@@ -45,12 +45,26 @@ This repo contains a few public cases I can share. Each includes the problem, ap
 - **Workflow & Automation:** cron, Google Sheets, Zapier, Airflow, Cursor  
 - **Machine Learning:** clustering, regression, Bayesian models for marketing budgets, CNN video upscaling  
 
+...and more.
+
 ---
-## 📬 Contact me
+### · Contact me ·
 
 **Linkedin:** [linkedin.com/in/litvinsedaya](https://linkedin.com/in/litvinsedaya)
+
 **Email:** [litvinsedaya@gmail.com](mailto:litvinsedaya@gmail.com)
+
 **Telegram:** [@litvinsedaya](https://t.me/litvinsedaya)
 
 
-#### ⚡ Data is not just numbers — it’s business logic, user behavior, the ever-rising entropy of the universe, and infrastructure costs all brought together. My work is about making that connection easy, visible and actionable.
+####  Data is not just numbers — it’s business logic, user behavior, the ever-rising entropy of the universe, and infrastructure costs all brought together. My work is about making that connection reachable, visible and actionable.
+Thanks for reading! <3
+
+---
+
+### · Bonus Tools ·
+
+Besides portfolio cases, I publish free utilities that I wrote for real projects:
+
+- **[Amplitude API Export Script](./tools/amplitude_api_export/)**  
+  Lightweight tool to export retro data from Amplitude. Useful for backfills and analytics pipelines.
