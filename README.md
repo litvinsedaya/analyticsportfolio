@@ -67,6 +67,6 @@ Thanks for reading! <3
 
 Besides portfolio cases, I publish free utilities that I wrote for real projects:
 
-- **[Amplitude API Export Script](./tools/amplitude_api_export/)**  
+- **[Amplitude API Export Script](tools/amplitude_api_loader/)**  
   Lightweight tool to export retro data from Amplitude. Useful for backfills and analytics pipelines.
 - ...more upcoming...

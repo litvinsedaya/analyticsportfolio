@@ -27,26 +27,26 @@ pip install requests pandas python-dotenv
 ### Test connection
 
 ```bash
-python amplitude_api_export/test_connection.py
+python amplitude_api_loader/test_connection.py
 ```
 
 ### Export data
 
 ```bash
 # Yesterday
-python amplitude_api_export/export_events.py
+python amplitude_api_loader/export_events.py
 
 # Specific date
-python amplitude_api_export/export_events.py --date 2024-01-15
+python amplitude_api_loader/export_events.py --date 2024-01-15
 
 # Filter by event type
-python amplitude_api_export/export_events.py --event-type "event_type_here"
+python amplitude_api_loader/export_events.py --event-type "event_type_here"
 
 # Filter by user ID
-python amplitude_api_export/export_events.py --user-id "123"
+python amplitude_api_loader/export_events.py --user-id "123"
 
 # Without progress bars (production mode)
-python amplitude_api_export/export_events.py --no-progress
+python amplitude_api_loader/export_events.py --no-progress
 ```
 
 ---
